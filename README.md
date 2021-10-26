@@ -1,6 +1,6 @@
 # pacman-canvas
 
-HTML 5 で動くパックマンです。.
+HTML 5 で動くパックマンです。
 
 以下のリポジトリより取得、カスタマイズをさせて頂きました。
 https://github.com/platzhersh/pacman-canvas
