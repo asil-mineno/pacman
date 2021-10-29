@@ -1,11 +1,11 @@
 # pacman-canvas
 
-HTML 5 で動くパックマンです。
+HTML5 で動くパックマンです。
 
-以下のリポジトリより取得、カスタマイズをさせて頂きました。
+以下のリポジトリより取得、カスタマイズを行いました。<br>
 https://github.com/platzhersh/pacman-canvas
 
-使用しているフリー効果音
+使用しているフリー効果音<br>
 http://soundfxcenter.com/
 http://soundfxnow.com/
 
@@ -20,6 +20,7 @@ npm install
 ```
 
 # Get Start
+
 ```
 npm run
 ```
