@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/platzhersh/pacman-canvas.git"
+    "url": "git+https://github.com/asil-mineno/pacman.git"
   },
   "author": "platzh1rsch",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/platzhersh/pacman-canvas/issues"
+    "url": "https://github.com/asil-mineno/pacman/issues"
   },
-  "homepage": "https://github.com/platzhersh/pacman-canvas#readme",
+  "homepage": "https://github.com/asil-mineno/pacman#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
